@@ -1,0 +1,27 @@
+/* better.css */
+
+.yellow_box {
+  background: yellow;
+  border: 1px solid black;
+}
+
+.green_box {
+  background: green;
+  border: 4px solid blue;        
+}
+
+.box-with-lots-of-space {
+  padding: 20px;
+}
+
+.box-with-small-space {
+  padding: 5px;
+}
+
+.box-with-lots-of-margin {
+  margin: 20px;
+}
+
+.box-with-small-margin {
+  margin: 5px;
+}

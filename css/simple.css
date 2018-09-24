@@ -1,0 +1,10 @@
+/* simple.css */
+
+#yellow_box {
+  background: yellow;
+  border: 1px solid black;
+}
+#green_box {
+  background: green;
+  border: 4px dashed blue;        
+}
